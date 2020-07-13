@@ -1,11 +1,22 @@
-### Hi there 👋
+<h2 align="center">
+  Hi there 👋
+</h2>
+
+<p align="center">
+  <a href="https://twitter.com/castilh0s">
+    <img alt="License" src="https://img.shields.io/badge/-Twitter-1ca0f1?labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/castilh0s">
+  </a>
+  <a href="https://www.linkedin.com/in/henriquedecastilhos">
+    <img alt="My Twitter" src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://linkedin.com/in/henriquedecastilhos">
+  </a>
+
+  <br />
+  
+  <img alt="Elmo, from Sesame Street, waving his hand" src="https://media3.giphy.com/media/pxwlYSM8PfY5y/giphy.gif">
+</p>
 
 <!--
-**castilh0s/castilh0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [Magrathea Labs](https://magrathealabs.com/)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
