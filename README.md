@@ -3,9 +3,6 @@
 </h2>
 
 <p align="center">
-  <a href="https://twitter.com/castilh0s">
-    <img alt="License" src="https://img.shields.io/badge/-Twitter-1ca0f1?labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/castilh0s">
-  </a>
   <a href="https://www.linkedin.com/in/henriquedecastilhos">
     <img alt="My Twitter" src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://linkedin.com/in/henriquedecastilhos">
   </a>
