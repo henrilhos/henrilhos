@@ -1,6 +1,6 @@
 <div align="center">
 
-# Henrique
+# henrique
 
 software engineer
 
