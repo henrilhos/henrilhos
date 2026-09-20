@@ -1,5 +1,7 @@
 <div align="center">
 
+![https://i.giphy.com/11sBLVxNs7v6WA.webp](https://i.giphy.com/11sBLVxNs7v6WA.webp)
+
 # henrique
 
 software engineer
